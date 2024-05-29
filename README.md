@@ -10,9 +10,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : SACROMONTE
 
-**Web:**   https://    (url github.io)
+**Web:**   https://    https://github.com/belenibanezblanco/sacromonte-belen.github.io/tree/main
 
-**Github:** https://    (url https://github.com/.... )
+**Github:** https://    https://github.com/belenibanezblanco/sacromonte-belen.github.io/tree/main
 
 **Autor:**  BELEN IBANEZ
 
