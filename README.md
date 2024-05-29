@@ -20,7 +20,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  juego
 
-**Logotipo** : https://www.bing.com/images/search?view=detailV2&ccid=PA0XRr%2fr&id=E21EC243258B60FD2B3B2AC056B7E6F930DC739B&thid=OIP.PA0XRr_rDnMyTbfy4coUSwAAAA&mediaurl=https%3a%2f%2fexistoeninternet.es%2fwp-content%2fuploads%2f2021%2f08%2flogotipo-1.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3c0d1746bfeb0e73324db7f2e1ca144b%3frik%3dm3PcMPnmt1bAKg%26pid%3dImgRaw%26r%3d0&exph=65&expw=289&q=LOGOTIPO+SACROMONTE&simid=608034354754366837&FORM=IRPRST&ck=68C05E6293AF62B50A4C221D1AE02254&selectedIndex=12&itb=1&ajaxhist=0&ajaxserp=0 
+**Logotipo** : ![logotipo-1](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/18734712-af72-4c85-a0e9-5707e4064daa)
+
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
