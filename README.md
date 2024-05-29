@@ -25,7 +25,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Logotipo** : ![logotipo-1](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/18734712-af72-4c85-a0e9-5707e4064daa)
 
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px  tamaño fijo 
 
 **Probado en:**  GOOLGLE
 
