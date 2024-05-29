@@ -35,11 +35,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+
+
 
 # 2. Memoria del proyecto 
 
@@ -124,9 +123,7 @@ Creo que es un juego basico, facil para el acceso de todos los usuarios. Me gust
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+
 
 **Herramientas utilizadas**
 
