@@ -8,32 +8,30 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 1 Datos 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : SACROMONTE
 
 **Web:**   https://    (url github.io)
 
 **Github:** https://    (url https://github.com/.... )
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  BELEN IBANEZ
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : JUEGO QUIZZ HISTORIA DEL SACROMONTE . 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
+**Logotipo** : https://www.bing.com/images/search?view=detailV2&ccid=PA0XRr%2fr&id=E21EC243258B60FD2B3B2AC056B7E6F930DC739B&thid=OIP.PA0XRr_rDnMyTbfy4coUSwAAAA&mediaurl=https%3a%2f%2fexistoeninternet.es%2fwp-content%2fuploads%2f2021%2f08%2flogotipo-1.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3c0d1746bfeb0e73324db7f2e1ca144b%3frik%3dm3PcMPnmt1bAKg%26pid%3dImgRaw%26r%3d0&exph=65&expw=289&q=LOGOTIPO+SACROMONTE&simid=608034354754366837&FORM=IRPRST&ck=68C05E6293AF62B50A4C221D1AE02254&selectedIndex=12&itb=1&ajaxhist=0&ajaxserp=0 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**  GOOLGLE
 
 **Tamaño proyecto:** XXMB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
         (en caso de dudas revisar https://chooser-beta.creativecommons.org/) 
 
-**Fecha** : xx/xx/2024
+**Fecha** : 29/05/2024
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -50,15 +48,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
+Este proyecto consiste en un videojuego sobre el barrio del sacromonte, Ganada. Cuenta con dos claves base; un quizz multirespuesta y un apartado de informacion relacionada con las preguntas, que va desde los miradores mas frecuentados hasta los personajes mas famosos que salen de esta emblematica ciudad
 
 
 ### 2.2. Esquema de navegación 
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 
 
@@ -83,13 +79,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque anima al publico mas joven a interesarese por la historia, usando unos colores que mantienen la atencion del espectador y esd accesible para todos los publicos
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a niños principalmwnte, aunque su formato permite su uso en todos los publicos
 
 
 
@@ -99,7 +95,7 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
+- El juego consiste en un multiquizz 
 - Video 
 - Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
