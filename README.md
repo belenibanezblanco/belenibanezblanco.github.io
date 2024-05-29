@@ -139,6 +139,33 @@ Creo que es un juego basico, facil para el acceso de todos los usuarios. Me gust
 
 ![loscojones](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/8482b1b3-1bb7-4594-9718-86a113037ec8)
 
+![SliderPress_InputSlider1](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/8c8e72ef-2cf8-4f4d-8d61-cb58e0845036)
+![Slider_InputSlider1](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/73836d3a-74c8-45a2-bc10-101fcf3bd69a)
+![san miguel_Thumb](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/3e698e13-5cf4-42e7-9058-2b95d24dedd8)
+![san miguel](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/58a9071e-ba18-4e96-8b25-2a66ae6cc655)
+![san cristobal_Thumb](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/77165e4e-0b66-47da-9c64-9fa9efbc8bbc)
+![san cristobal](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/7d38c4d2-fa36-4cca-b218-97fc0bb35986)
+![rocio](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/54dc35b4-1512-422c-94b9-f10237c9f5d2)
+![Maria La Canastera_Thumb](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/724abfa8-d5ab-4991-a118-60a4d71aed0f)
+![loscojones](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/1d4d7fdf-4b47-4262-9634-afb6f4d5d74e)
+![Curro Albaicin_Thumb](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/3aa1964a-b016-4858-8df3-e53092f2877e)
+![ButtonPress_Button14](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/c5a99156-cc06-400e-96f5-6a4e42349034)
+![ButtonPress_Button13](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/bb7429eb-ced7-4558-8fd2-284bde63ccc7)
+![ButtonPress_Button9](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/a0893f7d-4891-4636-bbb7-e3806905943f)
+![ButtonPress_Button7](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/c4949ba8-0c0f-4e96-b88d-545ef475d736)
+![ButtonPress_Button6](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/a292ed6f-73b0-4935-9ccd-7b2389bab84c)
+![ButtonPress_Button2](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/4a97b054-18bd-439d-8b11-194740856521)
+![ButtonPress_Button1](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/06872aee-8727-45e8-a32c-df36e6f2139d)
+![ButtonOver_Button13](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/c8c89391-b743-4896-85e8-a023e0253796)
+![ButtonOver_Button9](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/17d7fb12-3174-4e6f-bf62-38161409b339)
+![ButtonOver_Button7](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/3e96c05f-f588-4b62-8bb9-a5e6ff89819a)
+![ButtonOver_Button6](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/baad858f-18ef-43e9-8bd9-7364cf2fbcd1)
+![Button_Button14](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/c7437e8d-71a8-4431-a283-bbc25e0153a0)
+![Button_Button13](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/f94106ba-5326-4945-b03d-d75f7afb2bf6)
+
+
+![1](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/f519eff1-d067-471b-827d-66fbb20540b4)
+
 
 
 
