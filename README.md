@@ -123,6 +123,19 @@ Creo que es un juego basico, facil para el acceso de todos los usuarios. Me gust
 
 **Recursos y materiales audiovisuales:**
 
+![negro](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/66375b0f-b5ee-43d6-bd09-7f503069a6ba)
+![loscojones](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/fe05020a-a367-4509-8841-db3864d11c00)
+![fin](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/573cf5b1-b197-4efa-8334-91581aaaeaa1)
+![FALLASTE-Photoroom png-Photoroom](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/58fa8a68-4c92-4f6e-a80a-bd5bce5e9687)
+![ButtonPress_Button9](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/74a978aa-e986-4a31-a9ba-3747ab4acee6)
+![ButtonPress_Button6](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/1feb0d79-f08e-4ef7-b829-5b375c689610)
+![ButtonPress_Button5](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/49d2ae34-504c-4bf4-9974-5e2c4bc60114)
+![ButtonPress_Button4](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/567ff1e8-3ce1-4c56-8276-c879bf62c6bb)
+![ButtonOver_Button9](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/059688f9-e940-4458-835b-3d8700a8b357)
+![ButtonOver_Button6](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/902e8ab2-6b65-44eb-921e-e12bce573f1d)
+![ButtonOver_Button1](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/83d95599-4f5f-4c92-ae69-0fb164a769e5)
+
+![loscojones](https://github.com/belenibanezblanco/sacromonte-belen.github.io/assets/171036380/8482b1b3-1bb7-4594-9718-86a113037ec8)
 
 
 **Herramientas utilizadas**
