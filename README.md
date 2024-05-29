@@ -29,9 +29,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Tamaño proyecto:** XXMB 
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
-        (en caso de dudas revisar https://chooser-beta.creativecommons.org/) 
-
+**Licencia** Este proyecto tiene una Licencia CC
 **Fecha** : 29/05/2024
 
 **Medios** (donde se tiene presencia relacionada):
@@ -55,7 +53,10 @@ Este proyecto consiste en un videojuego sobre el barrio del sacromonte, Ganada. 
 ### 2.2. Esquema de navegación 
 
 
-
+El juego cuenta con varias ventanas de navegacion, la primera es el menu principal, donde podemos usar tres botones, el de jugar, que me abre cuatro ventanas de cuatro preguntas, que al finalizar me lleva a una nueva ventana, que varia segun si has ganado o has perdido, y te permite volver al menu principal.
+El segundo boton, "estudiar", lleva a otras cuatro ventanas con la teoria del juego, en las que podemos avanzar o retroceder o voler al menu principal
+el ultimo boton me lleva a una ultima ventana, que contiene un video sobre el sacromonte
+cuenta tambien con una barra deslizante que permite cambiar el volumen de musica de fondo del juego
 
 
 
@@ -96,24 +97,22 @@ Este  proyecto es interesante porque anima al publico mas joven a interesarese p
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- El juego consiste en un multiquizz 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- El juego consiste en un multiquizz con una parte de historia para aprender los conocimientos necesarios para pasar el quizz o para volver a revisar en caso de fallarlo
+Cuenta con un video que ofrece un paseo por el sacromonte.
+El menu se abre con dos botones; el de jugar para acceder al quizz y el de estudiar para acceder al contenido teorico del juego, que cuenta con varias paginas que podremos pasar de alante hacia detras en funcion de nustros intereses o volver a la pagina principal. TAmbien cuenta con un boton que pone "mas", que nos lleva al video mencionado previamente.
+Cuando abrimos la ventana del juego, hay cuatro preguntas con tres opciones de respuesta cada una, y si se aciertan la mayoria, se gana el juego.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Hay un apartado en el juego para un video de la experiencia de pasear por el sacromonte, podria añadirle controles de video, o añadir audios que mejoren la experiencia
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
+Creo que es un juego basico, facil para el acceso de todos los usuarios. Me gustaria añadir en un futuro nuevos niveles, con mas minijuegos sobre el sacromonte, como un puzzle, o un apartado con audios sobre canciones de los artistas de la zona. Tambien me gustaria ampliar el cpntenido teorico del juego, con datos de Granada, e incluso andalucia, pasando a ser un juego centrado totalmente en geografia.
 
 
 
@@ -122,9 +121,6 @@ Este  proyecto es interesante porque anima al publico mas joven a interesarese p
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
@@ -135,7 +131,7 @@ Este  proyecto es interesante porque anima al publico mas joven a interesarese p
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+
 
 
 
